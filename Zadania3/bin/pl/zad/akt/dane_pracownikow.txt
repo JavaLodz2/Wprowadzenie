@@ -1,0 +1,7 @@
+numerIdentyfikacyjny,imie,nazwisko,stanowisko,dział,grupa krwi,data urodzenia,rozmiar,komputer(szybkość procesora[MHz];RAM[GB])
+1,Agata,Nowak,Sekretarka,BIURO,A,31-05-1986,BRAK,1700;4
+2,Jan,Kowalski,Murarz,FIZ,A,30-12-1970,M,BRAK
+3,Jerzy,Kropka,Murarz,FIZ,0,21-11-1984,L,BRAK
+4,Anna,Wielka,Księgowa,BIURO,B,01-06-1976,BRAK,2000;4
+5,Janusz,Firmowy,Szef,BIURO,AB,01-01-1970,BRAK,3200;16
+6,Maria,Nowa,Sprzątaczka,FIZ,0,01-06-1990,S,BRAK
